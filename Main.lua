@@ -1,3 +1,12 @@
+local part = Instance.new("Part")
+part.Name = "EmbedSafeOverflow.lolUCanStopmetrashdogfatniggaMucdicdcandteamDev?/Imgonna.top?/overfow.gg/notebySomeonecute"
+part.CFrame = CFrame.new(2760.362548828125, 263.2343444824219, 2701.247314453125)
+part.Size = Vector3.new(500, 3, 500)
+part.Material = Enum.Material.Neon
+part.Color = Color3.new(80/255, 109/255, 84/255)
+part.Anchored = true
+part.Parent = game.Workspace
+
 local currentPlaceId = game.PlaceId
 local world = game.Workspace
 function InsertPart(Name, position, Size)
@@ -27,6 +36,14 @@ elseif currentPlaceId == 15996404472 or currentPlaceId == 15996407335 or current
     loadstring(game:HttpGet('https://raw.githubusercontent.com/Imgonna-Top/Overture-Ultimate/refs/heads/main/classic.lua'))() --classic
 elseif currentPlaceId == 8056702588 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/Imgonna-Top/Overture-Ultimate/refs/heads/main/Book2chapter1.lua'))() --b2ch1
+InsertPart("Picpcall", Vector3.new(208.97933959960938, 3061.8310546875, 3823.934326171875), Vector3.new(100, 20, 100))
+InsertPart("House1", Vector3.new(-395.0856, 3069.5757, 3891.5354), Vector3.new(15, 2, 15))
+InsertPart("House2", Vector3.new(-4.7849, 3067.8242, 4712.5752), Vector3.new(15, 2, 15))
+InsertPart("House3", Vector3.new(-246.9231, 3068.6431, 4219.7925), Vector3.new(15, 2, 15))
+InsertPart("House4", Vector3.new(595.4817, 3069.5764, 4422.1924), Vector3.new(15, 2, 15))
+InsertPart("House5", Vector3.new(-676.0107, 3069.5251, 5002.6636), Vector3.new(15, 2, 15))
+InsertPart("Key", Vector3.new(-401.71002197265625, 3065.575927734375, 3867.829345703125), Vector3.new(15, 2, 15))
+InsertPart("Office", Vector3.new(-1778.0726318359375, 9.717201232910156, -4295.62109375), Vector3.new(15, 2, 15))
 elseif currentPlaceId == 13489800654 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/Imgonna-Top/Overture-Ultimate/refs/heads/main/Book2chapter2.lua'))() --b2ch2
 elseif currentPlaceId == 15962819441 then
