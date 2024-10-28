@@ -15,7 +15,7 @@ elseif currentPlaceId == 7068738088 or currentPlaceId == 7068951438 or currentPl
 elseif currentPlaceId == 15996404472 or currentPlaceId == 15996407335 or currentPlaceId == 15996411979 or currentPlaceId == 15996410294 or currentPlaceId == 15996413469 or currentPlaceId == 15996414738 or currentPlaceId == 15996416081 or currentPlaceId == 15996417416 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/MerryXTrash/TheMimicNew/refs/heads/main/Normal/Classic.lua'))() --classic
 elseif currentPlaceId == 8056702588 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/MerryXTrash/TheMimicNew/refs/heads/main/Normal/Book2Ch1.lua'))() --b2ch1
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Imgonna-Top/Overture-Ultimate/refs/heads/main/Book2chapter1.lua'))() --b2ch1
 elseif currentPlaceId == 13489800654 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/MerryXTrash/TheMimicNew/refs/heads/main/Normal/Book2ch2.lua'))() --b2ch2
 elseif currentPlaceId == 15962819441 then
