@@ -38,7 +38,7 @@ elseif currentPlaceId == 11126398230 then
 elseif currentPlaceId == 7618863566 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/Imgonna-Top/Overture-Ultimate/refs/heads/main/Jigoku.lua'))() --Jigoku
 elseif currentPlaceId == 7633631103 or currentPlaceId == 7633631351 or currentPlaceId == 7633631511 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/MerryXTrash/TheMimicNew/refs/heads/main/Normal/Halloween.lua'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Imgonna-Top/Overture-Ultimate/refs/heads/main/halloween.lua'))()
 else
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MerryXTrash/TheMimicNew/refs/heads/main/NotSupport.lua"))()
 end
