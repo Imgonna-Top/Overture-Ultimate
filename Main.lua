@@ -1,5 +1,16 @@
 local currentPlaceId = game.PlaceId
-
+local world = game.Workspace
+function InsertPart(Name, position, Size)
+	part = Instance.new"Part"
+	part.Name = Name
+	part.Parent = world
+	part.Anchored = true
+	part.CanCollide = true
+	part.Transparency = 1
+	part.Size = Size
+	cframe = CFrame.new(position) * CFrame.new(0, -2, 0)
+	part.CFrame = cframe
+end
 if currentPlaceId == 6296321810 or currentPlaceId == 6479231833 or currentPlaceId == 6301638949 or currentPlaceId == 6480994221 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/Imgonna-Top/Overture-Ultimate/refs/heads/main/Book1chapter1.lua'))() --b1c1
 elseif currentPlaceId == 6373539583 or currentPlaceId == 6485055338 or currentPlaceId == 6406571212 or currentPlaceId == 6485055836 or currentPlaceId == 6425178683 or currentPlaceId == 6485056556 then
