@@ -30,7 +30,7 @@ elseif currentPlaceId == 8056702588 then
 elseif currentPlaceId == 13489800654 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/Imgonna-Top/Overture-Ultimate/refs/heads/main/Book2chapter2.lua'))() --b2ch2
 elseif currentPlaceId == 15962819441 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/MerryXTrash/TheMimicNew/refs/heads/main/Normal/Book2ch3.lua'))() --b2ch3
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/MerryXTrash/TheMimicNew/refs/heads/main/Normal/nil))() --b2ch3
 elseif currentPlaceId == 8311302084 or currentPlaceId == 8311299084 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/Imgonna-Top/Overture-Ultimate/refs/heads/main/xmas.lua'))() --Xmas
 elseif currentPlaceId == 11126398230 then
